@@ -105,7 +105,7 @@ export default function App() {
             <a href="#events" className="hover:text-[#8FA98B]">Events</a>
             <a href="#photos" className="hover:text-[#8FA98B]">Photos</a>
             <a href="#newsletter" className="hover:text-[#8FA98B]">Newsletter</a>
-            <a href="#join" className="hover:text-[#8FA98B]">Join</a>
+           
           </nav>
           <a href="#join" className="md:inline-flex hidden px-3 py-1.5 rounded-xl"
              style={{ backgroundColor: CONTENT.ui.brand.primary, color: "black" }}>
