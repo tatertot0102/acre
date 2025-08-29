@@ -1,0 +1,64 @@
+{
+  "org": {
+    "name": "ACRE",
+    "tagline": "Analysis • Capital • Real-World Economics",
+    "heroTitle": "Build your stake.",
+    "heroSubtitle": "Real competitions, real projects, real connections — experiences that count",
+    "contactEmail": "#",
+    "socials": {
+      "instagram": "#",
+      "discord": "#",
+      "linkedin": "#"
+    }
+  },
+  "why": [
+    { "title": "Access to Pros You Can’t Reach Alone", "body": "Small-group networking with young professionals, alumni, and guest speakers (finance, real estate, startups)." },
+    { "title": "Competition Credentials", "body": "Prep and participate in Wharton Global (Sep–Dec), JA Titan, and Shark-Tank style events with résumé-ready recognition." },
+    { "title": "Project-Based Value", "body": "Build real stock theses, pitch decks, and basic real-estate underwriting models you can showcase." },
+    { "title": "Publishing & Recognition", "body": "Write for the Acre Report and get featured on LinkedIn for a public footprint." },
+    { "title": "Exclusive Opportunities", "body": "Talk about collabs" },
+    { "title": "Chapters & Leadership", "body": "Open new chapters, reshape the exec board, and level up leadership experience." }
+  ],
+  "programs": [
+    { "name": "Acre Forum (Speakers)", "desc": "Occasional guest speakers with small-group Q&A — real paths, real advice." },
+    { "name": "Acre Lab (Workshops)", "desc": "Hands-on sessions: stock fundamentals, valuation basics, options intro, real-estate underwriting 101." },
+    { "name": "Acre Prep (Competitions)", "desc": "Train and register teams for Wharton Global and JA Titan; research → thesis → deck → compete." },
+    
+    { "name": "Acre Pitch", "desc": "Shark-Tank style showcase with judges, feedback, and prizes — portfolio-ready output." },
+    { "name": "Acre Report (Newsletter)", "desc": "Monthly highlights, member articles, and event drops; amplify on LinkedIn, Reddit, and Discord." }
+  ],
+  "events": [
+    { "date": "Mid-Oct", "title": "Launch Meeting", "meta": "Financial literacy slides + a space to play Monopoly in peace; announce comp timelines & speaker dates." },
+    { "date": "Sep–Dec", "title": "Wharton Global Investment Competition", "meta": "Prep and participate; checkpoints for research, thesis, and deck reviews." },
+    { "date": "Year-Round", "title": "Guest Speakers & Internships", "meta": "Young pros + alumni, and rolling internship opportunities via partners." }
+  ],
+  "newsletter": {
+    "blurb": "Monthly highlights, member articles, and event drops. Add your email to get the next issue (and LinkedIn shoutouts).",
+    "form": {
+      "enabled": false,
+      "url": "https://formspree.io/f/yourid"
+    }
+  },
+  "ui": {
+    "brand": {
+      "primary": "#8FA98B",
+      "bg": "#0b0c0d"
+    }
+  },
+  "deadlines": {
+    "wharton": "2025-12-01T23:59:00"
+  },
+  "ticker": [
+    "Monopoly Nights",
+    "Wharton Global (Sep–Dec)",
+    "Guest Speaker Q&A",
+    "Internship Pathways",
+    "Networking Nights",
+    "Acre Shark Tank"
+  ],
+  "photos": [
+    { "url": "/images/poster1.jpg", "alt": "Recruitment Poster" },
+    { "url": "/images/monopoly-night.jpg", "alt": "Monopoly Night" },
+    { "url": "/images/guest-speaker.jpg", "alt": "Guest Speaker Event" }
+  ]
+}
