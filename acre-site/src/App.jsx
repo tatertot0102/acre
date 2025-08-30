@@ -124,7 +124,7 @@ export default function App() {
              className="absolute -bottom-32 -right-24 h-[36rem] w-[36rem] rounded-full blur-3xl opacity-25"
              style={{ background: "radial-gradient(closest-side, #7cc1b3, transparent 60%)" }} />
         {/* Dark gradient to improve contrast */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/40 to-black/70" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#0a0f1f]/20 via-[#0a0f1f]/40 to-[#0a0f1f]/70" />
 
         {/* Headline */}
         <div className="relative h-full mx-auto max-w-6xl px-4 flex flex-col justify-center">
