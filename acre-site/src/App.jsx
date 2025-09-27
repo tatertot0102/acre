@@ -380,7 +380,7 @@ function Featured() {
 /* --------------------------------- Events --------------------------------- */
 function Events() {
   const events = [
-    { date: "Sep 15", title: "Monopoly Night jerkoff", meta: "Fun & strategy night" },
+    { date: "Sep 15", title: "Monopoly Night Kickoff", meta: "Fun & strategy night" },
     { date: "Oct 10", title: "Wharton Global Prep", meta: "Sharpen analysis & pitch" },
     { date: "Nov 05", title: "Finance Pro Guest Q&A", meta: "Networking & insights" },
   ];
